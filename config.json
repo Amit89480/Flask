@@ -1,0 +1,14 @@
+{
+
+  "params":
+  {
+
+"local_server": "true",
+    "local_uri": "mysql://root:@localhost/codingt",
+"prod_uri": "mysql://root:@localhost/codingt"
+  }
+
+
+
+
+}
